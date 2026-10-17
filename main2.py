@@ -1,4 +1,4 @@
-CONTRIBUTORS = []  # Conflicts generator 1
+CONTRIBUTORS = [Sai Srikar Kolagani]  
 
 def add(a, b):
     return a + b
